@@ -1,0 +1,38 @@
+@media(max-width: 600px){
+	.top {
+		flex-direction: column;
+	}
+
+
+	h1 {
+		font-size: 50px;
+	}
+
+
+	h2 {
+		font-size: 50px;
+		padding-left: 90px;
+	}
+
+
+	.logo-3 {
+		top: -24px;
+	}
+
+
+	.logo-2 {
+		width: 80px;
+		left: 230px;
+	}
+
+
+	.logo-4 {
+		margin-left: -70px;
+	}
+
+
+	.bottom {
+		display: block;
+		padding-top: 30px;
+	}
+}

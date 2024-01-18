@@ -1,0 +1,89 @@
+body {
+	background: black;
+	color: white;
+	font-family: Comic Sans MS;
+}
+
+
+span {
+	color: black;
+	text-shadow: 0 0 10px yellow;
+}
+
+
+h2 {
+	font-size: 70px;
+	line-height: 80px;
+
+}
+
+
+.logo {
+	width: 120px;
+}
+
+
+.top {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+
+a {
+	color: white;
+	text-decoration: none;
+	margin: 10px;
+}
+
+
+a:hover {
+	text-shadow: 0 0 3px yellow;
+	color: black;
+}
+
+
+h1 {
+	font-size: 130px;
+	margin-left: 40px;
+	text-shadow: 0 0 20px red;
+	color: black;
+}
+
+
+.your {
+	margin-left: 33%;
+	text-shadow: 0 0 20px orange;
+} 
+
+
+.logo-2 {
+	width: 200px;
+	position: absolute;
+	top: 0px;
+	left: 490px;
+}
+
+
+.center {
+	position: relative;
+}
+
+
+.logo-3 {
+	position: absolute;
+	top: 70px;
+	left: -200px;
+}
+
+
+.bottom {
+	display: flex;
+	align-items: center;
+}
+
+
+.logo-4 {
+	width: 400px;
+
+}
